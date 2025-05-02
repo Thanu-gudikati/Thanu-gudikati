@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanu-gudikati" alt="thanu-gudikati" /></a> </p>
 
-- 🌱 I’m currently learning **OOPS , JAVA SCRIPT, KOTLIN**
+- 🌱 I’m currently learning **OOPS , DevOps, Generative AI**
 
 - 📫 How to reach me **gudikatithanmai@gmail.com**
 
